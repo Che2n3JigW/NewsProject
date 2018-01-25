@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/PullToRefresh_sample" />
+            <option value="$PROJECT_DIR$/RefreshListView" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_sample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/library_slidingmenu" />
+            <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
+            <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

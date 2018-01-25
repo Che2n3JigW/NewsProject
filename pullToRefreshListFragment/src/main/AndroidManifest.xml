@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.handmark.pulltorefresh.extras.listfragment"
+    android:versionCode="2110"
+    android:versionName="2.1.1">
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="15"
+        tools:overrideLibrary="com.handmark.pulltorefresh.library,android.support.v4
+,android.support.fragment,android.support.mediacompat
+        ,android.support.coreui
+        ,android.support.coreutils,android.support.compat"
+        />
+    <application />
+
+</manifest>

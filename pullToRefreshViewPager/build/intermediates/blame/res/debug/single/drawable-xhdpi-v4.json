@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\NewsProject\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\NewsProject\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\NewsProject\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    }
+]

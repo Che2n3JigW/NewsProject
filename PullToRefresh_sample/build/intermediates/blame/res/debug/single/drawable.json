@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_sample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_sample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidStudioProject\\NewsProject\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    }
+]
